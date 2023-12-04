@@ -1,0 +1,73 @@
+print("hola Mundo") 
+
+#comentario :) 
+
+""""
+info no interpretable 
+"""
+
+
+
+# variable concadenadas 
+
+#print(f"{texto}- {edad} - {nombre} - {harina}")
+
+
+
+#pruebas con hola mundo de youtube :D  desde cero 
+#datos: # no sirven solo
+#36 
+#feliz?
+#chanchito?   
+
+#Dato:
+
+#Usuario:
+   #36 años
+   #chanchito feliz 
+
+#variable 
+x = "chanchito"
+animal = "chanchito"
+menu = "chanchito"
+
+
+#tipos de datos:
+
+#animal = "chanchito"  #String
+#edad = 36 #Integer 
+#harina = 0.5 #float
+#casado = true #Boolean   True or False 
+
+#funciones 
+
+#//function #EntrarALaCasa():
+ #  1.acercarse a la puerta 
+  # 2.patiar la puerta 
+   #3.caminar hacia adelante 
+#entrarALaCasa()
+  #estas depende del contexto de la programacion es god o bad 
+  
+#orientacion a objetos 
+
+
+#clase , la forma o pasas a seguir para la construcion
+
+# class Personas{
+ #   edad: Integer
+  #  nombre: String 
+   # color: String 
+   #decir nombre(): 
+     #habla {tu nombre}  #esto se pasa de la clase al new personas
+#}
+  
+ #con la base ya hecha solo faltan datos para seguir y construir la clase+
+
+
+#osea aca y se aplica para todos
+
+#personachanchito =new Personas{
+ #    edad:15
+  #  nombre:"chanchito"
+    # color:"blanco"
+#}
